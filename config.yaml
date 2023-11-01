@@ -1,0 +1,9 @@
+app:
+  name: "golang-viper"
+  author: "Hermanto Lakoro"
+  verison: "1.0.0"
+database:
+  host: "http://localhost:3306"
+  username: "root"
+  password: "root"
+  show_sql: true

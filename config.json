@@ -1,0 +1,13 @@
+{
+  "app": {
+    "name": "golang-viper",
+    "version": "1.0.0",
+    "author": "Hermanto Lakoro"
+  },
+  "database": {
+    "host": "http://localhost:3306",
+    "show_sql": true,
+    "username": "root",
+    "passwors": "root"
+  }
+}
